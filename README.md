@@ -7,6 +7,8 @@
 ### Persnetation
 - [F-sktk Persentation View](https://prezi.com/view/i0FpoxTT7lMX5VGJ8oak/)
 
+- [F-Sktk Summarized Version](https://prezi.com/view/96VumeQV2qOsoV3v0Fd7/)
+
 ### Analysis
 - [Google Survey](https://docs.google.com/spreadsheets/d/1N9Gxzo62dyyiPtymEXxngxGjWLPHBKk18L_zb-VyPDE/edit?gid=0#gid=0)
 - [Google Survey Form Link](https://tally.so/r/n0bKrQ)
