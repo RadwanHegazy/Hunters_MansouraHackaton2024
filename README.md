@@ -30,7 +30,7 @@ We chose blue to represent **trust and reliability, fostering user confidence, a
 [Figma Design](https://www.figma.com/design/cQoW44Uin7efeIvBjsWEsH/F-Sktk?node-id=0-1&t=imfluyVtUae9mmh3-1)
 
 # Frontend
-I’m a front-end developer, working on a carpooling web app, I use React (Next.js) for building the web app, Tailwind CSS for responsive design, and ShadCn components for a styling. My goal is to create an easy-to-use, fast, and good-looking web platform.
+Working on a carpooling web app, I use React (Next.js) for building the web app, Tailwind CSS for responsive design, and ShadCn components for a styling. My goal is to create an easy-to-use, fast, and good-looking web platform.
 
 ### Stack
 - Tailwind Css (Styling)
