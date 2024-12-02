@@ -2,4 +2,4 @@
 ![BMC Image](./BMC.jpeg)
 
 # Video Promo
-<video src="./promo.mp4" controls>
+<video src="promo.mp4" controls>
